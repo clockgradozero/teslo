@@ -13,8 +13,12 @@
 ``` 
 docker-compose up -d 
 ```
+6. Ejecutar SEED
+```
+http://localhost:3000/api/seed
+```
 
-6. Levantar NEST en modo desarrollo con 
+7. Levantar NEST en modo desarrollo con 
 ```
 yarn start:dev
 ```
